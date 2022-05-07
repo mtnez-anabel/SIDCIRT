@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indicator name="Vulnerabilidad de incendio">
+  <subindicator>
+    <name>Gravedad Indice de Fallecidos</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Gravedad Indice de Lesionados</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Daños Externos Mayores</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Daños Internos Mayores</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Daños Medioambientales</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+</indicator>
+

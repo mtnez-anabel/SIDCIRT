@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indicator name="Falta de homeostasis">
+  <subindicator>
+    <name>Sistema de Alerta Temprano</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Protec Momento de Emerg</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Comunidad Entrenada</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Comunicación</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Barrera Natural</name>
+    <comment>Se expresa en metros, valores entre 0 y 5</comment>
+    <min>0.0</min>
+    <max>5.0</max>
+    <ini>2.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Barrera Artificial</name>
+    <comment>Se expresa en metros, valores entre 0 y 5</comment>
+    <min>0.0</min>
+    <max>5.0</max>
+    <ini>2.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Espacios Naturales Proteg</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Especies Protegidas</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Patrimonio Histórico Artístico</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Estado Físico de las Constr</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Densidad de población</name>
+    <comment>Hab/km2, valores entre 0 y 500</comment>
+    <min>0.0</min>
+    <max>500.0</max>
+    <ini>250.0</ini>
+  </subindicator>
+  <subindicator>
+    <name>Área Comunitaria</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+</indicator>
+

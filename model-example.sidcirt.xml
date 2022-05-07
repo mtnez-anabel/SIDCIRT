@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+  <indicator name="FALTA_H">
+    <subindicator value="0.9" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="2.5" />
+    <subindicator value="2.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="250.0" />
+    <subindicator value="0.5" />
+  </indicator>
+  <indicator name="FALTA_R">
+    <subindicator value="0.5" />
+    <subindicator value="30.0" />
+    <subindicator value="5.0" />
+    <subindicator value="5.0" />
+    <subindicator value="30.0" />
+    <subindicator value="5.0" />
+    <subindicator value="0.5" />
+    <subindicator value="50.0" />
+    <subindicator value="0.5" />
+    <subindicator value="25.0" />
+    <subindicator value="0.5" />
+  </indicator>
+  <indicator name="FREC_DE">
+    <subindicator value="0.5" />
+  </indicator>
+  <indicator name="FREC_ES">
+    <subindicator value="0.5" />
+  </indicator>
+  <indicator name="FREC_EX">
+    <subindicator value="0.5" />
+  </indicator>
+  <indicator name="FREC_IN">
+    <subindicator value="0.5" />
+  </indicator>
+  <indicator name="VULN_DE">
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+  </indicator>
+  <indicator name="VULN_ES">
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+  </indicator>
+  <indicator name="VULN_EX">
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+  </indicator>
+  <indicator name="VULN_IN">
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+    <subindicator value="0.5" />
+  </indicator>
+</model>
+

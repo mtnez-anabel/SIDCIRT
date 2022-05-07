@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indicator name="Falta de resiliencia">
+  <subindicator>
+    <name>Servicios de salvamento</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Brig de Lucha incendios</name>
+    <comment>Se expresa en min, valores entre 0 y 60</comment>
+    <min>0.0</min>
+    <max>60.0</max>
+    <ini>30.0</ini>
+  </subindicator>
+  <subindicator>
+    <name>Bomberos</name>
+    <comment>Se expresa en km, valores entre 0 y 10</comment>
+    <min>0.0</min>
+    <max>10.0</max>
+    <ini>5.0</ini>
+  </subindicator>
+  <subindicator>
+    <name>Ambulancias</name>
+    <comment>Se expresa en km, valores entre 0 y 10</comment>
+    <min>0.0</min>
+    <max>10.0</max>
+    <ini>5.0</ini>
+  </subindicator>
+  <subindicator>
+    <name>Primeros Aux y Otros</name>
+    <comment>Se expresa en min, valores entre 0 y 60</comment>
+    <min>0.0</min>
+    <max>60.0</max>
+    <ini>30.0</ini>
+  </subindicator>
+  <subindicator>
+    <name>Servicios Hosp Urgencias</name>
+    <comment>Se expresa en km, valores entre 0 y 10</comment>
+    <min>0.0</min>
+    <max>10.0</max>
+    <ini>5.0</ini>
+  </subindicator>
+  <subindicator>
+    <name>Recuperación Básica</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Longevidad</name>
+    <comment>Se expresa en años, valores entre 0 y 100</comment>
+    <min>0.0</min>
+    <max>100.0</max>
+    <ini>50.0</ini>
+  </subindicator>
+  <subindicator>
+    <name>Escolaridad</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+  <subindicator>
+    <name>Ingreso per Cápita</name>
+    <comment>Se expresa en $, valores entre 0 y 50</comment>
+    <min>0.0</min>
+    <max>50.0</max>
+    <ini>25.0</ini>
+  </subindicator>
+  <subindicator>
+    <name>REconstrucción</name>
+    <comment>Los valores se ponderan de 0 a 1</comment>
+    <min>0.0</min>
+    <max>1.0</max>
+    <ini>0.5</ini>
+  </subindicator>
+</indicator>
+

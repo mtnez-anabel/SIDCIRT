@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="app.acronym">SIDCIRT</entry>
+<entry key="app.name">Sistema Inteligente Difuso para el Cálculo del Riesgo Tecnológico</entry>
+<entry key="app.version">1.0</entry>
+<entry key="app.author">Anabel Martínez Machado</entry>
+<entry key="app.org">CEI. MFC. Universidad Central "Marta Abreu" de Las Villas</entry>
+</properties>

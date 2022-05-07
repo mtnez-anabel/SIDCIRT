@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indicator name="Frecuencia de incendio">
+  <subindicator>
+    <name>Tiempo</name>
+    <comment>En meses de 0 a 150</comment>
+    <min>0.0</min>
+    <max>150.0</max>
+    <ini>75</ini>
+  </subindicator>
+</indicator>
+
